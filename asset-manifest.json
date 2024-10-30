@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GWP_HospitalDashboard/static/css/main.a7b97ce8.css",
+    "main.js": "/GWP_HospitalDashboard/static/js/main.8c4cd9d0.js",
+    "index.html": "/GWP_HospitalDashboard/index.html",
+    "main.a7b97ce8.css.map": "/GWP_HospitalDashboard/static/css/main.a7b97ce8.css.map",
+    "main.8c4cd9d0.js.map": "/GWP_HospitalDashboard/static/js/main.8c4cd9d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b97ce8.css",
+    "static/js/main.8c4cd9d0.js"
+  ]
+}
